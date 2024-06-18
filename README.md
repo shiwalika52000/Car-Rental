@@ -3,7 +3,9 @@ Car rental management website based on php as a backend for web project
 
 Language Used -
 Front End(User Interface): HTML 5 , AJAX,JQUERY,JAVASCRIPT, BOOTSTRAP
+
 Server Language: PHP 5.5
+
 BackEnd: MYSQL
 
 
